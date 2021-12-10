@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Contact me
 
 [![Twitter](https://badgen.net/badge/icon/twitter/green?icon=twitter&label)](https://twitter.com/realmiketalbot)
