@@ -46,9 +46,11 @@ I contribute to a lot or private repos so this is a bit misleading.
 
 ## Favorite FOSS Projects
 * [Ubuntu](https://ubuntu.com/)
-* [QGIS](https://qgis.org/)
+* [NGINX](https://www.nginx.com/)
+* [PHP](https://www.php.net/)
 * [PostgreSQL](https://postgresql.org/)
 * [PostGIS](http://postgis.net/)
+* [QGIS](https://qgis.org/)
 * [Nextcloud](https://nextcloud.com/)
 
 ## Favorite Community Projects
