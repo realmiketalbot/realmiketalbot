@@ -2,9 +2,10 @@
 
 ## Contact me
 
-[![GitHub](https://badgen.net/badge/github/follow/green?icon=keybase)](https://github.com/realmiketalbot)
-[![Keybase](https://badgen.net/badge/keybase/message/green?icon=keybase)](https://keybase.io/realmiketalbot)
-[![Discord](https://badgen.net/badge/discord/message/green?icon=discord)](https://discord.com/users/918635669398626416)
+[![Twitter](https://badgen.net/badge/icon/twitter/green?icon=twitter&label)](https://twitter.com/realmiketalbot)
+[![Keybase](https://badgen.net/badge/icon/keybase/green?icon=keybase&label)](https://keybase.io/realmiketalbot)
+[![Telegram](https://badgen.net/badge/icon/telegram/green?icon=telegram&label)](https://t.me/realmiketalbot)
+[![Discord](https://badgen.net/badge/icon/discord/green?icon=discord&label)](https://discord.com/users/918635669398626416)
 ---
 
 ## Me
