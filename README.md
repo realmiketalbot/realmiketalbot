@@ -8,8 +8,6 @@
 
 ## Me
 
-Engineer and full stack dev by day, tinkerer and outdoorsman by... other days.
-
 Professional interests:
 * Floodplain management
 * Green infrastructure
