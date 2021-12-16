@@ -47,6 +47,6 @@ I contribute to a lot or private repos so this is a bit misleading.
 * [QGIS](https://qgis.org/)
 * [Nextcloud](https://nextcloud.com/)
 
-## Favorite Community Projects
+## Favorite Communities
 * [Unraid](https://unraid.net/)
 * [Chocolatey](https://chocolatey.org/)
