@@ -1,6 +1,5 @@
 ## Contact me
 
-[![Twitter](https://badgen.net/badge/icon/twitter/green?icon=twitter&label)](https://twitter.com/realmiketalbot)
 [![Keybase](https://badgen.net/badge/icon/keybase/green?icon=keybase&label)](https://keybase.io/realmiketalbot)
 [![Telegram](https://badgen.net/badge/icon/telegram/green?icon=telegram&label)](https://t.me/realmiketalbot)
 [![Discord](https://badgen.net/badge/icon/discord/green?icon=discord&label)](https://discord.com/users/918635669398626416)
