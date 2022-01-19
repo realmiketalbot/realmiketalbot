@@ -33,7 +33,7 @@ Proficient with:
 * SQL
 * Visual Basic
 
-I contribute to a lot or private repos so this is a bit misleading.
+I contribute to a lot of private repos so this is a bit misleading.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realmiketalbot&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
