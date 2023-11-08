@@ -4,7 +4,7 @@
 
 ## Me
 
-See [my CV](miketalbot.io).
+See [my CV](https://miketalbot.io).
 
 ## Favorite FOSS Projects
 * [Ubuntu](https://ubuntu.com/)
