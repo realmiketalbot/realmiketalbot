@@ -4,31 +4,7 @@
 
 ## Me
 
-Professional interests:
-* Floodplain management
-* Green infrastructure
-* Spatial analysis
-* Data management
-* Web application development
-
-Personal interests:
-* Music
-* Winter camping
-* Soccer
-* Electronics
-* Gardening
-
-## Languages
-Currently learning:
-* Python
-* Javascript
-* Shell scripting
-
-Proficient with:
-* R
-* PHP
-* SQL
-* Visual Basic
+See [my CV](miketalbot.io).
 
 ## Favorite FOSS Projects
 * [Ubuntu](https://ubuntu.com/)
