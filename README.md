@@ -9,11 +9,14 @@ See [my CV](https://miketalbot.io).
 ## Favorite FOSS Projects
 * [Ubuntu](https://ubuntu.com/)
 * [NGINX](https://www.nginx.com/)
-* [PHP](https://www.php.net/)
 * [PostgreSQL](https://postgresql.org/)
 * [PostGIS](http://postgis.net/)
 * [QGIS](https://qgis.org/)
-* [Nextcloud](https://nextcloud.com/)
+
+## Favorite Languages
+* R
+* Python
+* Julia
 
 ## Favorite Communities
 * [Unraid](https://unraid.net/)
