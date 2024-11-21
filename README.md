@@ -17,7 +17,3 @@ See [my CV](https://miketalbot.io).
 * R
 * Python
 * Julia
-
-## Favorite Communities
-* [Unraid](https://unraid.net/)
-* [Chocolatey](https://chocolatey.org/)
